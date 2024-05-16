@@ -44,7 +44,7 @@ This repository follows the following commit conventions to maintain a clear and
 - **refactor:** Rearrange code without adding or removing features.
   Example: `git commit -m "refactor: Restructure the table component"`
 
-- **cry:** Maintenance tasks, such as library updates.
+- **chore:** Maintenance tasks, such as library updates.
   Example: `git commit -m "cry: Update Angular Material version."`
 
 - **test:** Add or modify tests.
